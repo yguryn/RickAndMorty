@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/charactersFragment"
+        android:title="Characters"
+        android:icon="@drawable/ic_characters_foreground"/>
+
+    <item
+        android:id="@+id/locationsFragment"
+        android:title="Locations"
+        android:icon="@drawable/ic_locations_foreground"/>
+
+    <item
+        android:id="@+id/episodesFragment"
+        android:title="Episodes"
+        android:icon="@drawable/ic_episodes_foreground"/>
+
+</menu>
